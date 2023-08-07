@@ -1,0 +1,15 @@
+C:\Users\aleks\Documents\Study\C#\Senimar_2\bin\Debug\net6.0\Senimar_2.exe
+C:\Users\aleks\Documents\Study\C#\Senimar_2\bin\Debug\net6.0\Senimar_2.deps.json
+C:\Users\aleks\Documents\Study\C#\Senimar_2\bin\Debug\net6.0\Senimar_2.runtimeconfig.json
+C:\Users\aleks\Documents\Study\C#\Senimar_2\bin\Debug\net6.0\Senimar_2.dll
+C:\Users\aleks\Documents\Study\C#\Senimar_2\bin\Debug\net6.0\Senimar_2.pdb
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.csproj.AssemblyReference.cache
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.AssemblyInfoInputs.cache
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.AssemblyInfo.cs
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.dll
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\refint\Senimar_2.dll
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.pdb
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\Senimar_2.genruntimeconfig.cache
+C:\Users\aleks\Documents\Study\C#\Senimar_2\obj\Debug\net6.0\ref\Senimar_2.dll
