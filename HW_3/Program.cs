@@ -41,22 +41,22 @@
 // 23432 -> да
 
 
-Console.Write("Enter a five-digit number: ");
-string number = Console.ReadLine();
-int len = number.Length;
+// Console.Write("Enter a five-digit number: ");
+// string number = Console.ReadLine();
+// int len = number.Length;
 
-if (len == 5)
-{
-    if (number[0] == number[4] && number[1] == number[3])
-    {
-        Console.WriteLine($"{number} - is a palindrom.");
-    }
-    else
-    {
-        Console.WriteLine($"{number} - is not a palindrom.");
-    }
-}
-else
-{
-    Console.Write("Enter a five-digit number: ");
-}
+// if (len == 5)
+// {
+//     if (number[0] == number[4] && number[1] == number[3])
+//     {
+//         Console.WriteLine($"{number} - is a palindrom.");
+//     }
+//     else
+//     {
+//         Console.WriteLine($"{number} - is not a palindrom.");
+//     }
+// }
+// else
+// {
+//     Console.Write("Enter a five-digit number: ");
+// }
