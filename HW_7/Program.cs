@@ -79,3 +79,43 @@
 // }
 // Console.WriteLine();
 
+
+
+// Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
+
+// Например, задан массив:
+// 1 4 7 2
+// 5 9 2 3
+// 8 4 2 4
+// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3
+
+Console.WriteLine("Enter the number of rows in the array: ");
+int rows = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Enter the number of colomns in the array: ");
+int colomns = Convert.ToInt32(Console.ReadLine());
+
+int [,] matrix = new int[rows,colomns];
+
+for (int i = 0; i < matrix.GetLength(0); i++)
+{
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        matrix[i,j] = new Random().Next(0,20);
+        Console.Write(matrix[i,j]+" ");
+    }
+    Console.WriteLine();
+}
+
+int sum = 0;
+double average = 0;
+
+for (int j = 0; j < matrix.GetLength(1); j++)
+{
+    for(int i = 0; i < matrix.GetLength(0); i++)
+    {
+        sum += matrix[i,j];
+    }
+    average = (double)sum / rows;
+    Console.WriteLine($"Average of the colomn {j+1} is {average}");
+}
